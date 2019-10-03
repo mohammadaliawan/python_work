@@ -1,2 +1,3 @@
-print("Hello Python World!")
-print("Hello Yusuf Ibraheem!!")
+message = "Hello Python Crash Course reader"
+print(mesage)
+
