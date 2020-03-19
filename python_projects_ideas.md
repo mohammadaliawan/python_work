@@ -46,3 +46,13 @@ The goal of this bonus is to add Lizard and Spock into your code.
 Typing the full word "rock" or "lizard" is tiring. Update the program so the user can type "r" for "rock," "p" for "paper," etc. Note that if you do bonus #1, you'll have two words that start with "s." How do you resolve that?
 
 Keep score of the player's and computer's wins. When either the player or computer reaches five wins, the match is over, and the winning player becomes the grand winner. Don't add your incrementing logic to display_results. Keep your methods simple; they should perform one logical task — no more, no less.
+
+## ClickProc- an e-procurement portal
+
+
+## Manufacturing Operations Management Portal
+Something to do with IIOT
+
+## ERP software
+
+
